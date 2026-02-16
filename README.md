@@ -18,7 +18,7 @@ Controller: Manages REST API endpoints and HTTP communication.
 2. Clone the Repository
    code
    Bash
-   git clone https://github.com/your-username/student-management-api.git
+   git clone  https://github.com/AydanBayramova/StudentProject
    cd student-management-api
 3. Build the Project
    code
