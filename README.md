@@ -69,4 +69,3 @@ curl -X GET http://localhost:8080/students
 ✅ Layered Logic: Decoupled Controller and Service layers.
 ✅ Modern Java: Utilizes Streams, Lambda expressions, and Method References.
 ✅ Data Mapping: Clean conversion between internal entities and external API models.
-👤 Author
